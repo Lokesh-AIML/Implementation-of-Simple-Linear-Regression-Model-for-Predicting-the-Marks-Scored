@@ -65,30 +65,39 @@ print("RMSE= ",rmse)
 
 ## Output:
 df.head()
+
 <img width="261" height="252" alt="image" src="https://github.com/user-attachments/assets/e0b02337-91f4-4bf4-9092-7d5172fc018f" />
 
 df.tail()
+
 <img width="277" height="256" alt="image" src="https://github.com/user-attachments/assets/2e431aaf-63c7-4535-ad57-6ec2612d0e56" />
 
 Array value of X
+
 <img width="259" height="574" alt="image" src="https://github.com/user-attachments/assets/31c2e44b-7201-4f55-9018-9f3ebabfb0ef" />
 
 Array value of Y
+
 <img width="788" height="81" alt="image" src="https://github.com/user-attachments/assets/82708cbc-b074-493c-8e31-eda9ebee1bfe" />
 
 Values of Y prediction
+
 <img width="814" height="73" alt="image" src="https://github.com/user-attachments/assets/e27e7580-d9d4-465b-9c4a-47258d96ac27" />
 
 Array values of Y test
+
 <img width="499" height="58" alt="image" src="https://github.com/user-attachments/assets/98199d67-6a1d-488a-8ba4-c770c50584e3" />
 
 Training set Graph
+
 <img width="851" height="594" alt="image" src="https://github.com/user-attachments/assets/a566a71b-65ea-47f0-ab8f-46c3d1710b79" />
 
 Test set Graph
+
 <img width="800" height="586" alt="image" src="https://github.com/user-attachments/assets/8a8db566-be29-4c40-aaec-b813ccdaba07" />
 
 Values of MSE, MAE and RMSE
+
 <img width="343" height="91" alt="image" src="https://github.com/user-attachments/assets/41e2774d-919d-4bde-bdc7-0058b1656370" />
 
 ## Result:
